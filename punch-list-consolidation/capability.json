@@ -1,0 +1,48 @@
+{
+  "id": "punch-list-consolidation",
+  "name": "Punch list consolidation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The site manager gets the punch list for the next closeout walk as one list grouped by location and trade, with repeated entries merged, photographs attached and a proposed follow-up date for each open item. Nothing is assigned, closed or accepted.",
+  "directory": "https://fullypowered.ai/capabilities/punch-list-consolidation/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/quality-management",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/real-estate",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "project-handover-readiness-check",
+    "safety-walk-follow-up",
+    "submittal-register-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of construction work, written from how a closeout punch list is kept between walks."
+    }
+  ]
+}

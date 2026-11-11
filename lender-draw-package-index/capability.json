@@ -1,0 +1,45 @@
+{
+  "id": "lender-draw-package-index",
+  "name": "Lender draw package index",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.",
+  "directory": "https://fullypowered.ai/capabilities/lender-draw-package-index/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "pay-application-line-check",
+    "thirteen-week-cash-flow-forecast",
+    "month-end-close-checklist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own map of construction work, written from how a project finance team assembles a draw: the lender's checklist as the order of the index, fixed inputs with stated column headers, a plain match of each invoice to the ledger, every gap named with the role to ask, and a finance lead who decides on submission."
+    }
+  ]
+}

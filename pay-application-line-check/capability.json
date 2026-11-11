@@ -1,0 +1,46 @@
+{
+  "id": "pay-application-line-check",
+  "name": "Pay application line check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.",
+  "directory": "https://fullypowered.ai/capabilities/pay-application-line-check/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "client-billing-summary",
+    "supplier-bill-review-and-payment-run-preparation",
+    "scope-change-impact-review",
+    "lender-draw-package-index"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own map of construction work, written from how a project accountant checks a progress billing: fixed inputs with stated column headers, the numbered comparisons, a tolerance the accountant sets, differences listed with their amounts and never resolved, and a certifier who decides."
+    }
+  ]
+}

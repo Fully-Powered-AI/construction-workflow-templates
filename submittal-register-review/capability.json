@@ -1,0 +1,48 @@
+{
+  "id": "submittal-register-review",
+  "name": "Submittal register review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The project engineer gets one register of every required submittal: what has arrived, the review status as recorded, the documents still missing and the long-lead items at risk against the date each order must be placed. Nothing is routed, accepted or ordered.",
+  "directory": "https://fullypowered.ai/capabilities/submittal-register-review/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/quality-management",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/engineering-firms",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "supplier-delivery-date-check",
+    "vendor-renewal-review",
+    "reviewer-comments-resolution-list"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of construction work, written from how submittal tracking is done on a project."
+    }
+  ]
+}

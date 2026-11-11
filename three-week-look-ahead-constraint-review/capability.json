@@ -1,0 +1,46 @@
+{
+  "id": "three-week-look-ahead-constraint-review",
+  "name": "Three-week look-ahead constraint review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before the coordination meeting, the superintendent gets a brief that sets each planned activity of the next three weeks beside what could hold it up: trades sharing an area, unfinished predecessors, open approvals, late deliveries and unanswered RFIs. The superintendent confirms the sequence and assigns the follow-up.",
+  "directory": "https://fullypowered.ai/capabilities/three-week-look-ahead-constraint-review/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/engineering-firms",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "schedule-recovery-options",
+    "project-status-report",
+    "supplier-delivery-date-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of construction site coordination, and its own rules for prepared work: the project's records as the only authority, every gap written as a question for the superintendent, and a person who confirms the sequence and assigns the follow-up."
+    }
+  ]
+}

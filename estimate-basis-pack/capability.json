@@ -1,0 +1,47 @@
+{
+  "id": "estimate-basis-pack",
+  "name": "Estimate basis pack",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An estimator pricing a job from drawings, takeoffs and supplier quotes gets one worksheet: every figure with its quantity source, rate source and date beside it, each exclusion listed and every gap already written as a scope question. The estimator verifies; the bid lead decides the figure.",
+  "directory": "https://fullypowered.ai/capabilities/estimate-basis-pack/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/engineering-firms",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "vendor-quote-comparison",
+    "scope-change-impact-review",
+    "bid-or-no-bid-and-rfp-response-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of construction estimating work, and its rules for prepared work: every figure carries its basis, every gap is a question for a named role, and a person verifies and decides."
+    }
+  ]
+}
