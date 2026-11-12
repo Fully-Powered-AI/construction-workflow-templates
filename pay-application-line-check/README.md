@@ -2,7 +2,7 @@
 
 Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.
 
-*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/pay-application-line-check/)*
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pay-application-line-check/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on two or three past applications t
 
 ## Related workflow templates
 
-- [Client billing summary](https://fullypowered.ai/workflow templates/client-billing-summary/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflow templates/supplier-bill-review-and-payment-run-preparation/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
 - [Lender draw package index](../lender-draw-package-index/)
 
 ## Make it yours

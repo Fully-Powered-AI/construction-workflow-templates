@@ -2,7 +2,7 @@
 
 An estimator pricing a job from drawings, takeoffs and supplier quotes gets one worksheet: every figure with its quantity source, rate source and date beside it, each exclusion listed and every gap already written as a scope question. The estimator verifies; the bid lead decides the figure.
 
-*Workflow template · Construction · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/estimate-basis-pack/)*
+*Workflow template · Construction · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/estimate-basis-pack/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on two or three bids your estimator
 
 ## Related workflow templates
 
-- [Vendor quote comparison](https://fullypowered.ai/workflow templates/vendor-quote-comparison/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)
 
 ## Make it yours
 

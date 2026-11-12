@@ -2,7 +2,7 @@
 
 The project engineer gets one register of every required submittal: what has arrived, the review status as recorded, the documents still missing and the long-lead items at risk against the date each order must be placed. Nothing is routed, accepted or ordered.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/submittal-register-review/)*
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/submittal-register-review/)*
 
 ## The outcome
 
@@ -73,9 +73,9 @@ Testing on your project means running it on a log your project engineer already 
 
 ## Related workflow templates
 
-- [Supplier delivery date check](https://fullypowered.ai/workflow templates/supplier-delivery-date-check/)
-- [Vendor renewal review](https://fullypowered.ai/workflow templates/vendor-renewal-review/)
-- [Reviewer comments into one resolution list](https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)
 
 ## Make it yours
 

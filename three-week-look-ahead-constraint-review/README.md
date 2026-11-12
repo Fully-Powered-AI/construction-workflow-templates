@@ -2,7 +2,7 @@
 
 Before the coordination meeting, the superintendent gets a brief that sets each planned activity of the next three weeks beside what could hold it up: trades sharing an area, unfinished predecessors, open approvals, late deliveries and unanswered RFIs. The superintendent confirms the sequence and assigns the follow-up.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/three-week-look-ahead-constraint-review/)*
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on two or three past look-aheads yo
 
 ## Related workflow templates
 
-- [Schedule recovery options](https://fullypowered.ai/workflow templates/schedule-recovery-options/)
-- [Project status report](https://fullypowered.ai/workflow templates/project-status-report/)
-- [Supplier delivery date check](https://fullypowered.ai/workflow templates/supplier-delivery-date-check/)
+- [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/)
+- [Project status report](https://fullypowered.ai/workflows/project-status-report/)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
 
 ## Make it yours
 

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The site manager gets the punch list for the next closeout walk as one list grouped by location and trade, with repeated entries merged, photographs attached and a proposed follow-up date for each open item. Nothing is assigned, closed or accepted.",
-  "directory": "https://fullypowered.ai/workflow templates/punch-list-consolidation/",
+  "directory": "https://fullypowered.ai/workflows/punch-list-consolidation/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.",
-  "directory": "https://fullypowered.ai/workflow templates/lender-draw-package-index/",
+  "directory": "https://fullypowered.ai/workflows/lender-draw-package-index/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

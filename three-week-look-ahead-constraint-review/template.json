@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before the coordination meeting, the superintendent gets a brief that sets each planned activity of the next three weeks beside what could hold it up: trades sharing an area, unfinished predecessors, open approvals, late deliveries and unanswered RFIs. The superintendent confirms the sequence and assigns the follow-up.",
-  "directory": "https://fullypowered.ai/workflow templates/three-week-look-ahead-constraint-review/",
+  "directory": "https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

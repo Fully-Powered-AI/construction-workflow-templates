@@ -2,7 +2,7 @@
 
 The site manager gets the punch list for the next closeout walk as one list grouped by location and trade, with repeated entries merged, photographs attached and a proposed follow-up date for each open item. Nothing is assigned, closed or accepted.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/punch-list-consolidation/)*
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/punch-list-consolidation/)*
 
 ## The outcome
 
@@ -75,8 +75,8 @@ Testing on your project means running it on a punch list your site manager alrea
 
 ## Related workflow templates
 
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
-- [Safety walk follow-up](https://fullypowered.ai/workflow templates/safety-walk-follow-up/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
+- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/)
 - [Submittal register review](../submittal-register-review/)
 
 ## Make it yours

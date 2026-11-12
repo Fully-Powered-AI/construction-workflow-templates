@@ -2,7 +2,7 @@
 
 Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.
 
-*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lender-draw-package-index/)*
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lender-draw-package-index/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on two or three past draws the fina
 ## Related workflow templates
 
 - [Pay application line check](../pay-application-line-check/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflow templates/thirteen-week-cash-flow-forecast/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
 
 ## Make it yours
 

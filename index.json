@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "An estimator pricing a job from drawings, takeoffs and supplier quotes gets one worksheet: every figure with its quantity source, rate source and date beside it, each exclusion listed and every gap already written as a scope question. The estimator verifies; the bid lead decides the figure.",
       "path": "estimate-basis-pack/",
-      "directory": "https://fullypowered.ai/workflow templates/estimate-basis-pack/"
+      "directory": "https://fullypowered.ai/workflows/estimate-basis-pack/"
     },
     {
       "id": "lender-draw-package-index",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.",
       "path": "lender-draw-package-index/",
-      "directory": "https://fullypowered.ai/workflow templates/lender-draw-package-index/"
+      "directory": "https://fullypowered.ai/workflows/lender-draw-package-index/"
     },
     {
       "id": "pay-application-line-check",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.",
       "path": "pay-application-line-check/",
-      "directory": "https://fullypowered.ai/workflow templates/pay-application-line-check/"
+      "directory": "https://fullypowered.ai/workflows/pay-application-line-check/"
     },
     {
       "id": "punch-list-consolidation",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "The site manager gets the punch list for the next closeout walk as one list grouped by location and trade, with repeated entries merged, photographs attached and a proposed follow-up date for each open item. Nothing is assigned, closed or accepted.",
       "path": "punch-list-consolidation/",
-      "directory": "https://fullypowered.ai/workflow templates/punch-list-consolidation/"
+      "directory": "https://fullypowered.ai/workflows/punch-list-consolidation/"
     },
     {
       "id": "submittal-register-review",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "The project engineer gets one register of every required submittal: what has arrived, the review status as recorded, the documents still missing and the long-lead items at risk against the date each order must be placed. Nothing is routed, accepted or ordered.",
       "path": "submittal-register-review/",
-      "directory": "https://fullypowered.ai/workflow templates/submittal-register-review/"
+      "directory": "https://fullypowered.ai/workflows/submittal-register-review/"
     },
     {
       "id": "three-week-look-ahead-constraint-review",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "Before the coordination meeting, the superintendent gets a brief that sets each planned activity of the next three weeks beside what could hold it up: trades sharing an area, unfinished predecessors, open approvals, late deliveries and unanswered RFIs. The superintendent confirms the sequence and assigns the follow-up.",
       "path": "three-week-look-ahead-constraint-review/",
-      "directory": "https://fullypowered.ai/workflow templates/three-week-look-ahead-constraint-review/"
+      "directory": "https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/"
     }
   ]
 }
