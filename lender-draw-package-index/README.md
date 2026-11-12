@@ -2,7 +2,7 @@
 
 Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.
 
-*Capability template · Construction · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/lender-draw-package-index/)*
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lender-draw-package-index/)*
 
 ## The outcome
 
@@ -40,7 +40,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several projects draw in the same week.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of draws outgrows a careful hand check of each package.
 
-It stays apart from [pay application line check](https://fullypowered.ai/capabilities/pay-application-line-check/), which compares a contractor’s billing with the schedule of values, the changes and the site evidence; here the pay application is only a document that is listed. It also stays apart from [thirteen-week cash flow forecast](https://fullypowered.ai/capabilities/thirteen-week-cash-flow-forecast/), which looks ahead at cash, while this index looks at one month’s package.
+It stays apart from [pay application line check](https://fullypowered.ai/workflows/pay-application-line-check/), which compares a contractor’s billing with the schedule of values, the changes and the site evidence; here the pay application is only a document that is listed. It also stays apart from [thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/), which looks ahead at cash, while this index looks at one month’s package.
 
 ## What has to change for your company
 
@@ -48,9 +48,9 @@ Put your lender’s checklist in the stated columns, in the lender’s order, an
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, then edited and run again on the same example by the editing session, and the record is published with it. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, then edited and run again on the same example by the editing session, and the record is published with it. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past draws the finance lead already knows, with cases written in advance: an invoice missing from the ledger, an amount that differs, a payee with no attachment listed, a ledger entry that is not posted. The finance lead checks every line against the lender’s checklist and the ledger before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on two or three past draws the finance lead already knows, with cases written in advance: an invoice missing from the ledger, an amount that differs, a payee with no attachment listed, a ledger entry that is not posted. The finance lead checks every line against the lender’s checklist and the ledger before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -61,11 +61,11 @@ Testing in your environment means running it on two or three past draws the fina
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on two or three past draws the fina
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Pay application line check](../pay-application-line-check/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/capabilities/thirteen-week-cash-flow-forecast/)
-- [Month-end close checklist](https://fullypowered.ai/capabilities/month-end-close-checklist/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflow templates/thirteen-week-cash-flow-forecast/)
+- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

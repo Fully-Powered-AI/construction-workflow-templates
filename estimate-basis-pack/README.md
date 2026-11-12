@@ -2,7 +2,7 @@
 
 An estimator pricing a job from drawings, takeoffs and supplier quotes gets one worksheet: every figure with its quantity source, rate source and date beside it, each exclusion listed and every gap already written as a scope question. The estimator verifies; the bid lead decides the figure.
 
-*Capability template · Construction · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/estimate-basis-pack/)*
+*Workflow template · Construction · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/estimate-basis-pack/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ The figure a bid lead submits stands on a page that shows what it rests on. Besi
 
 What the price leaves out is written down too: each exclusion, whose it is and which lines it touches. What nobody can price yet becomes a numbered scope question for a named role.
 
-The estimator still does the estimating. The capability does no takeoff, sets no rate and chooses no quote. It never fills a blank with a guess; a line with no quantity or no rate shows no figure and says why.
+The estimator still does the estimating. The workflow template does no takeoff, sets no rate and chooses no quote. It never fills a blank with a guess; a line with no quantity or no rate shows no figure and says why.
 
 ## Who starts the work, and when
 
@@ -36,6 +36,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 - [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where the figure behind a bid has to be explainable line by line.
 - [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where supplier quotes arrive with their own inclusions, exclusions and expiry dates.
+- [Sales](https://fullypowered.ai/functions/sales/), where a proposal or bid needs the figure behind its price explained line by line.
 - [Construction](https://fullypowered.ai/industries/construction/), where each drawing revision and addendum can change a quantity after it was priced.
 - [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where fee and works estimates are built from drawings and rate sources.
 - [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where custom work is priced from drawings and supplier quotes.
@@ -48,9 +49,9 @@ Fix the columns your takeoff and rates exports use, or map them to the defaults.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it, and covers the revised version only for the cases that example contains (a superseded drawing, an expired quote, a quote on an older revision, a blank quantity, a missing rate, an assumed quantity, an allowance, an old rate and a quote that supplies only). Rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops and missing files have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it, and covers the revised version only for the cases that example contains (a superseded drawing, an expired quote, a quote on an older revision, a blank quantity, a missing rate, an assumed quantity, an allowance, an old rate and a quote that supplies only). Rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops and missing files have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three bids your estimator already knows, with cases written in advance: a superseded drawing revision, an expired quote, a line with no rate, a quantity that was assumed. The estimator checks every figure against the takeoff and its rate source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three bids your estimator already knows, with cases written in advance: a superseded drawing revision, an expired quote, a line with no rate, a quantity that was assumed. The estimator checks every figure against the takeoff and its rate source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -61,11 +62,11 @@ Testing in your environment means running it on two or three bids your estimator
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +76,12 @@ Testing in your environment means running it on two or three bids your estimator
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Vendor quote comparison](https://fullypowered.ai/capabilities/vendor-quote-comparison/)
-- [Scope change impact review](https://fullypowered.ai/capabilities/scope-change-impact-review/)
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/capabilities/bid-or-no-bid-and-rfp-response-plan/)
+- [Vendor quote comparison](https://fullypowered.ai/workflow templates/vendor-quote-comparison/)
+- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

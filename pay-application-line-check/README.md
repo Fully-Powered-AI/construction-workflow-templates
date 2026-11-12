@@ -2,7 +2,7 @@
 
 Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.
 
-*Capability template · Construction · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/pay-application-line-check/)*
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/pay-application-line-check/)*
 
 ## The outcome
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several projects are billing at once and one accountant checks them all.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of applications outgrows a careful read of each one.
 
-It stays apart from [client billing summary](https://fullypowered.ai/capabilities/client-billing-summary/), which prepares an outgoing invoice for a client to read, and from review of time-and-expense entries before billing. This capability checks a progress billing the reviewer has received.
+It stays apart from [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/), which prepares an outgoing invoice for a client to read, and from review of time-and-expense entries before billing. This workflow template checks a progress billing the reviewer has received.
 
 ## What has to change for your company
 
@@ -51,9 +51,9 @@ Put your own column names in the stated places, or tell the assistant how your f
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them and says where the recorded output differs from the template as it now stands. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them and says where the recorded output differs from the template as it now stands. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past applications the accountant already knows well, with cases written in advance: a total that does not add, a billed change that was never approved, stored materials with no receipt, an evidence percentage below the claim. The accountant checks every figure against the documents before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on two or three past applications the accountant already knows well, with cases written in advance: a total that does not add, a billed change that was never approved, stored materials with no receipt, an evidence percentage below the claim. The accountant checks every figure against the documents before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on two or three past applications t
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,13 +78,13 @@ Testing in your environment means running it on two or three past applications t
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Client billing summary](https://fullypowered.ai/capabilities/client-billing-summary/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/capabilities/supplier-bill-review-and-payment-run-preparation/)
-- [Scope change impact review](https://fullypowered.ai/capabilities/scope-change-impact-review/)
+- [Client billing summary](https://fullypowered.ai/workflow templates/client-billing-summary/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflow templates/supplier-bill-review-and-payment-run-preparation/)
+- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
 - [Lender draw package index](../lender-draw-package-index/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

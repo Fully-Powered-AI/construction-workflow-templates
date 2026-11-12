@@ -1,10 +1,10 @@
 {
   "id": "pay-application-line-check",
   "name": "Pay application line check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.",
-  "directory": "https://fullypowered.ai/capabilities/pay-application-line-check/",
+  "directory": "https://fullypowered.ai/workflow templates/pay-application-line-check/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

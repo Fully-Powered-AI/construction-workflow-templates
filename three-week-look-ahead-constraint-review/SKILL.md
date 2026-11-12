@@ -5,12 +5,12 @@ license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Three-week look-ahead constraint review"
+  template: "Three-week look-ahead constraint review"
 ---
 
 # Three-week look-ahead constraint review
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -133,7 +133,7 @@ money, or to write to a trade or supplier about it, decline and refer it
 to the contract team. If asked to contact anyone, answer an RFI, approve
 a submittal or assign follow-up, decline and point to the lists. If asked
 for ways to recover lost time, decline and point to the separate recovery
-capability. Check every date and every count against the calendar you
+workflow template. Check every date and every count against the calendar you
 built before you return the brief.
 
 ## Output format

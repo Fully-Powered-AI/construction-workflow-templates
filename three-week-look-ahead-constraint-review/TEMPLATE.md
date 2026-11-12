@@ -1,6 +1,6 @@
 # Three-week look-ahead constraint review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,9 +12,9 @@ Use it two or three working days before a coordination meeting, once the trades 
 
 Do not use it:
 
-- to recover a schedule that has already slipped. Comparing ways back to a committed date is a separate capability, schedule recovery options;
+- to recover a schedule that has already slipped. Comparing ways back to a committed date is a separate workflow template, schedule recovery options;
 - to report progress to the owner or sponsor. That is a project status report;
-- to compare supplier promise dates across every open purchase order. That is supplier delivery date check; this capability reads only the deliveries linked to activities in the window;
+- to compare supplier promise dates across every open purchase order. That is supplier delivery date check; this workflow template reads only the deliveries linked to activities in the window;
 - to build or update the schedule itself. The project's scheduler owns the schedule;
 - to judge whether a sequence is safe, whether a design works or whether work may proceed. Those are decisions for qualified site staff, the designers and the people accountable for safety;
 - to decide who is owed time or money for a delay. That question goes to the contract team.
@@ -75,7 +75,7 @@ If a file's headings do not match the defaults, in any order, stop and ask which
 - **Asked whether the work is safe, whether a design or sequence is sound, or what an inspection requires:** decline. The people accountable for safety and design decide; copy any note on the subject under "Notes the review does not judge".
 - **Asked who is entitled to time or money, or to write to a trade or supplier about it:** decline and refer it to the contract team.
 - **Asked to contact a trade, supplier, designer or reviewer, answer an RFI or approve a submittal:** decline. The follow-up lists are for the superintendent to assign.
-- **Asked to compare ways to recover lost time:** decline and point to the separate recovery capability.
+- **Asked to compare ways to recover lost time:** decline and point to the separate recovery workflow template.
 - **The files contain a password, a login code or a key:** do not repeat it; tell the person to remove it.
 
 ## Output format
@@ -308,7 +308,7 @@ money, or to write to a trade or supplier about it, decline and refer it
 to the contract team. If asked to contact anyone, answer an RFI, approve
 a submittal or assign follow-up, decline and point to the lists. If asked
 for ways to recover lost time, decline and point to the separate recovery
-capability. Check every date and every count against the calendar you
+workflow template. Check every date and every count against the calendar you
 built before you return the brief.
 ```
 
