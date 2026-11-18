@@ -49,11 +49,11 @@ Fix the columns your takeoff and rates exports use, or map them to the defaults.
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it, and covers the revised version only for the cases that example contains (a superseded drawing, an expired quote, a quote on an older revision, a blank quantity, a missing rate, an assumed quantity, an allowance, an old rate and a quote that supplies only). Rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops and missing files have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record is published with it, and covers the revised version only for the cases that example contains (a superseded drawing, an expired quote, a quote on an older revision, a blank quantity, a missing rate, an assumed quantity, an allowance, an old rate and a quote that supplies only). Rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops and missing files have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three bids your estimator already knows, with cases written in advance: a superseded drawing revision, an expired quote, a line with no rate, a quantity that was assumed. The estimator checks every figure against the takeoff and its rate source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -84,4 +84,4 @@ Testing in your environment means running it on two or three bids your estimator
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

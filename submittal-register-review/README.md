@@ -44,11 +44,11 @@ Use your own status words and decide which of them count as accepted. Set the re
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The example's own output was visible during that run, so it was not a blind run. Small edits made afterward to the example, the question wording and the instructions, including clauses on a reviewer comment that disagrees with the status, a package logged with no documents and an unreadable date, have not been run again; the template's version notes list them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The example's own output was visible during that run, so it was not a blind run. Small edits made afterward to the example, the question wording and the instructions, including clauses on a reviewer comment that disagrees with the status, a package logged with no documents and an unreadable date, have not been run again; the template's version notes list them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing on your project means running it on a log your project engineer already knows well, with cases written in advance: a package with a missing document, one that was never routed, a long-lead item with no time left. The project engineer checks every date and count against the log before anyone relies on the register.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -79,4 +79,4 @@ Testing on your project means running it on a log your project engineer already 
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

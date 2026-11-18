@@ -46,11 +46,11 @@ For related work, see [project handover readiness check](https://fullypowered.ai
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Small edits made to the template and the example after that run were not run again; the record lists them. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Small edits made to the template and the example after that run were not run again; the record lists them. It has not yet been tested in a client environment.
 
 Testing on your project means running it on a punch list your site manager already knows well, with cases written in advance: a repeated entry, an item raised again after it was closed, a trade that says it is finished. The site manager checks every merge, date and count against the source files before the list goes to anyone. The check for wording about danger matches only the words "unsafe", "hazard" and "danger", so a note such as a loose handrail is not flagged by it; add your own company's words to the check, and take anything about safety through the project's safety process.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -81,4 +81,4 @@ Testing on your project means running it on a punch list your site manager alrea
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

@@ -48,11 +48,11 @@ Put your lender’s checklist in the stated columns, in the lender’s order, an
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, then edited and run again on the same example by the editing session, and the record is published with it. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, then edited and run again on the same example by the editing session, and the record is published with it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on two or three past draws the finance lead already knows, with cases written in advance: an invoice missing from the ledger, an amount that differs, a payee with no attachment listed, a ledger entry that is not posted. The finance lead checks every line against the lender’s checklist and the ledger before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on two or three past draws the fina
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

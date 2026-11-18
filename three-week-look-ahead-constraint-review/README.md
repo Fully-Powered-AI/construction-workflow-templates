@@ -48,11 +48,11 @@ Map your scheduling product's export to the column headings once and keep the ma
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on two or three past look-aheads your superintendent remembers well, plus hard cases written in advance, each with its expected result: a predecessor past its finish, a closed day inside a delivery's lateness, two exclusive claims for one area, an update that is eight days old, an RFI needed after the activity starts. The superintendent checks every date and every count before anyone relies on the brief. [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/) is the next step when a committed date has already slipped, and [Project status report](https://fullypowered.ai/workflows/project-status-report/) carries the picture to the owner.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on two or three past look-aheads yo
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

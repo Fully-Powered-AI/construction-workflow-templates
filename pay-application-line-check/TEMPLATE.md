@@ -218,4 +218,4 @@ or whether work is complete: decline and name who answers.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own map of the work. Tried once on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). Changed after an independent review the same day and not run again; the record lists where its output differs from the template as it now stands. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own map of the work. Tried once on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). Changed after an independent review the same day and not run again; the record lists where its output differs from the template as it now stands. Not yet tested in a client environment.
