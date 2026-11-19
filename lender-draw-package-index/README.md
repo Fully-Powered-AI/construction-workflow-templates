@@ -4,6 +4,8 @@ Before a monthly draw goes to the lender, the project finance lead has an index 
 
 *Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lender-draw-package-index/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lender-draw-package-index/?from=gh-lender-draw-package-index)
+
 ## The outcome
 
 The finance lead opens the draw knowing what is in the package and what is not. The index follows the lender’s checklist item by item. Each item reads complete, incomplete or missing, and each gap is a numbered line naming the document, the payee or invoice it concerns and the person to ask.

@@ -4,6 +4,8 @@ The site manager gets the punch list for the next closeout walk as one list grou
 
 *Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/punch-list-consolidation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/punch-list-consolidation/?from=gh-construction-punch-list-consolidation)
+
 ## The outcome
 
 After a closeout walk the list is usually three lists: last week's punch list, the notes and photographs from today, and the messages trades have sent since. The same defect appears in all three, a trade's "done" sits beside an item nobody has checked, and nobody can say which items are late. This workflow template turns the three into one list in a fixed order: by location, then by trade.

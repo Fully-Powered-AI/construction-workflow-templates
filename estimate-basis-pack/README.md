@@ -4,6 +4,8 @@ An estimator pricing a job from drawings, takeoffs and supplier quotes gets one 
 
 *Workflow template · Construction · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/estimate-basis-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/estimate-basis-pack/?from=gh-construction-estimate-basis-pack)
+
 ## The outcome
 
 The figure a bid lead submits stands on a page that shows what it rests on. Beside each amount sit the quantity and where it came from, the rate and whose quote or price book it is, the date of that rate, and any reason to doubt either. Lines priced on a drawing revision that has since been replaced, a quote past its valid-to date or an assumed quantity are marked where they stand, not discovered at the bid meeting.

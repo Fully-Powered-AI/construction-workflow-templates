@@ -4,6 +4,8 @@ The project engineer gets one register of every required submittal: what has arr
 
 *Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/submittal-register-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/submittal-register-review/?from=gh-submittal-register-review)
+
 ## The outcome
 
 A submittal log tells you what was filed. It rarely tells you what is missing, what has sat unrouted for two weeks, or which equipment will miss its order date if review runs its usual length. This workflow template turns the specification's list of required submittals, the log of packages received and purchasing's order dates into one register in submittal-number order.

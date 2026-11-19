@@ -4,6 +4,8 @@ Before a progress billing goes on, the project accountant has every line compare
 
 *Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pay-application-line-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/pay-application-line-check/?from=gh-pay-application-line-check)
+
 ## The outcome
 
 The accountant opens a pay application already knowing where it disagrees with the project's own records. Each line has been set beside the schedule of values, what the last certificate paid, the changes the log shows as approved and the progress evidence that came with it. Every difference is on one page with its amount, the line it sits on and the person to ask.

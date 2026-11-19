@@ -4,6 +4,8 @@ Before the coordination meeting, the superintendent gets a brief that sets each 
 
 *Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/?from=gh-three-week-look-ahead-constraint-revi)
+
 ## The outcome
 
 The coordination meeting starts from one page instead of five logs. Every activity that begins in the next three weeks is listed in the order it starts, and under each is what stands between it and its start date: the work it waits on that is not finished, the dates its trade reports against the dates in the schedule, the approvals and RFIs still open, the delivery that has no promised date.
