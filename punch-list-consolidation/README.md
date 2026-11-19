@@ -3,7 +3,7 @@
 One closeout punch list grouped by location and trade, repeats merged, photographs attached and follow-up dates proposed. The site manager decides.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Punch list consolidation on our website](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Punch list consolidation on our website](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

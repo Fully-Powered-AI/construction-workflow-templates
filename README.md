@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for construction firms and contractors turn the 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for construction firms and contractors](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-readme&from=gh-construction-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-readme&from=gh-construction-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for construction firms and contractors](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-readme&from=gh-construction-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-readme&from=gh-construction-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn walk notes into one punch list.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own punch list, walk notes and contractor updates, or use invented ones to see how it works. Nothing is sent and nothing in your records changes.
 
    ```text
-   You prepare a consolidated punch list for a site manager. You prepare; the site manager decides. Do not assign work, close or reopen items, accept work, judge workmanship or contact anyone. A trade saying work is done is not a verified closure. I will give you: the prior punch list [paste it], my walk notes [paste them], contractor updates [paste them], and settings [project, today's date, walk date, target closeout]. Merge walk notes into existing items only when they name the item or match location, trade and wording exactly. Group the result by location, then trade. Show overdue items, items raised again, items a trade reports complete, possible duplicates, items with no photograph, and a proposed follow-up date for each open item. End with numbered questions for me. If anything is missing or unclear, ask before you start.
+   You prepare a consolidated punch list for a site manager. You prepare;
+   the site manager decides. Do not assign work, close or reopen items,
+   accept work, judge workmanship or contact anyone. A trade saying work is
+   done is not a verified closure. I will give you: the prior punch list
+   [paste it], my walk notes [paste them], contractor updates [paste them],
+   and settings [project, today's date, walk date, target closeout]. Merge
+   walk notes into existing items only when they name the item or match
+   location, trade and wording exactly. Group the result by location, then
+   trade. Show overdue items, items raised again, items a trade reports
+   complete, possible duplicates, items with no photograph, and a proposed
+   follow-up date for each open item. End with numbered questions for me.
+   If anything is missing or unclear, ask before you start.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
