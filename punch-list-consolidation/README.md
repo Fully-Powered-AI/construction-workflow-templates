@@ -1,10 +1,17 @@
 # Punch list consolidation
 
-The site manager gets the punch list for the next closeout walk as one list grouped by location and trade, with repeated entries merged, photographs attached and a proposed follow-up date for each open item. Nothing is assigned, closed or accepted.
+One closeout punch list grouped by location and trade, repeats merged, photographs attached and follow-up dates proposed. The site manager decides.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/punch-list-consolidation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Punch list consolidation on our website](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/punch-list-consolidation/?from=gh-construction-punch-list-consolidation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation)*
 
 ## The outcome
 
@@ -31,20 +38,20 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Construction](https://fullypowered.ai/industries/construction/), where the last weeks of a project are won or lost on how fast the remaining items are found, assigned and checked.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), for owners and their representatives following a building toward handover.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), for design and site teams that record observations on a walk.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the closeout date the list is working toward.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which wants a clean record of what was seen, what was fixed and what was verified.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), for the routine of walk, list and follow-up.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a standing way of running closeout walks.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when one site manager now closes out more buildings than before.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), where the last weeks of a project are won or lost on how fast the remaining items are found, assigned and checked.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), for owners and their representatives following a building toward handover.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), for design and site teams that record observations on a walk.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), which owns the closeout date the list is working toward.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), which wants a clean record of what was seen, what was fixed and what was verified.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), for the routine of walk, list and follow-up.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), with a standing way of running closeout walks.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation), when one site manager now closes out more buildings than before.
 
 ## What has to change for your company
 
 Use your own status words and decide which ones mean verified closure. Set the days you normally allow before an item is checked and agree who verifies: the authorized inspector, the owner representative or both. Agree the naming of locations and trades, because items are matched on them exactly; the cleaner the names, the fewer possible duplicates. This workflow template assesses no workmanship, judges nothing as safe or compliant, and accepts no work. The site manager assigns, and the authorized inspector or owner representative accepts.
 
-For related work, see [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/) for the documents and training that go with a handover, and [safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/) for concerns about safety. Neither is covered here.
+For related work, see [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation) for the documents and training that go with a handover, and [safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation) for concerns about safety. Neither is covered here.
 
 ## What has been checked
 
@@ -77,10 +84,10 @@ Testing on your project means running it on a punch list your site manager alrea
 
 ## Related workflow templates
 
-- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
-- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation)
+- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation)
 - [Submittal register review](../submittal-register-review/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation).

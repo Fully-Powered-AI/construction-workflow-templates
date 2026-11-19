@@ -1,10 +1,17 @@
 # Pay application line check
 
-Before a progress billing goes on, the project accountant has every line compared with the schedule of values, the last certificate, the approved changes and the evidence supplied, with each arithmetic difference listed. The authorized certifier decides payment; nothing is certified.
+Before a progress billing goes on, get every line compared with the schedule of values and evidence, differences listed. A certifier decides payment.
 
-*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pay-application-line-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Pay application line check on our website](https://fullypowered.ai/workflows/pay-application-line-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/pay-application-line-check/?from=gh-pay-application-line-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pay-application-line-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check)*
 
 ## The outcome
 
@@ -39,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where the project accountant owns the review before payment is certified.
-- [Construction](https://fullypowered.ai/industries/construction/), where monthly billing runs against a schedule of values, approved changes and site evidence.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), for owners and developers who review contractors' applications on their projects.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several projects are billing at once and one accountant checks them all.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of applications outgrows a careful read of each one.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), where the project accountant owns the review before payment is certified.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), where monthly billing runs against a schedule of values, approved changes and site evidence.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), for owners and developers who review contractors' applications on their projects.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), where several projects are billing at once and one accountant checks them all.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), when the number of applications outgrows a careful read of each one.
 
-It stays apart from [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/), which prepares an outgoing invoice for a client to read, and from review of time-and-expense entries before billing. This workflow template checks a progress billing the reviewer has received.
+It stays apart from [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check), which prepares an outgoing invoice for a client to read, and from review of time-and-expense entries before billing. This workflow template checks a progress billing the reviewer has received.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Put your own column names in the stated places, or tell the assistant how your f
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them and says where the recorded output differs from the template as it now stands. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past applications the accountant already knows well, with cases written in advance: a total that does not add, a billed change that was never approved, stored materials with no receipt, an evidence percentage below the claim. The accountant checks every figure against the documents before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on two or three past applications the accountant already knows well, with cases written in advance: a total that does not add, a billed change that was never approved, stored materials with no receipt, an evidence percentage below the claim. The accountant checks every figure against the documents before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,11 +89,11 @@ Testing in your environment means running it on two or three past applications t
 
 ## Related workflow templates
 
-- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
-- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check)
 - [Lender draw package index](../lender-draw-package-index/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-pay-application-line-check&from=gh-pay-application-line-check).

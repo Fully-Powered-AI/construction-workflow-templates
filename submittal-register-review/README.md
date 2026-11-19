@@ -1,10 +1,17 @@
 # Submittal register review
 
-The project engineer gets one register of every required submittal: what has arrived, the review status as recorded, the documents still missing and the long-lead items at risk against the date each order must be placed. Nothing is routed, accepted or ordered.
+Turn the required-submittals list, the log and purchasing's dates into one register of missing documents and long-lead risks. A person decides.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/submittal-register-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Submittal register review on our website](https://fullypowered.ai/workflows/submittal-register-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/submittal-register-review/?from=gh-submittal-register-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/submittal-register-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review)*
 
 ## The outcome
 
@@ -31,14 +38,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Construction](https://fullypowered.ai/industries/construction/), where equipment and finishes are bought months before they are installed.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where the design side tracks what has been reviewed and what is still outstanding.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), for owners and developers following a project's long-lead items.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the schedule the order dates protect.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which wants a clean record of what was reviewed and when.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), who need to know which orders are waiting on a review.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a standing submittal log and a routine for it.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when one project engineer now carries more projects than before.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), where equipment and finishes are bought months before they are installed.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), where the design side tracks what has been reviewed and what is still outstanding.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), for owners and developers following a project's long-lead items.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), which owns the schedule the order dates protect.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), which wants a clean record of what was reviewed and when.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), who need to know which orders are waiting on a review.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), with a standing submittal log and a routine for it.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review), when one project engineer now carries more projects than before.
 
 ## What has to change for your company
 
@@ -75,10 +82,10 @@ Testing on your project means running it on a log your project engineer already 
 
 ## Related workflow templates
 
-- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
-- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
-- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review).

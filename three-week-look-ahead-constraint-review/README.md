@@ -1,10 +1,17 @@
 # Three-week look-ahead constraint review
 
-Before the coordination meeting, the superintendent gets a brief that sets each planned activity of the next three weeks beside what could hold it up: trades sharing an area, unfinished predecessors, open approvals, late deliveries and unanswered RFIs. The superintendent confirms the sequence and assigns the follow-up.
+Set each activity of the next three weeks beside what could hold it up before the coordination meeting. The superintendent confirms the sequence.
 
-*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Three-week look-ahead constraint review on our website](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/?from=gh-three-week-look-ahead-constraint-revi)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi)*
 
 ## The outcome
 
@@ -37,12 +44,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the plan for the next stretch of work and the meeting that keeps it honest.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), whose delivery dates decide whether a trade can start on the day planned.
-- [Construction](https://fullypowered.ai/industries/construction/), where the superintendent walks into each coordination meeting with several trades wanting the same space.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where the firm coordinates a contractor's look-ahead on a project it designed.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where the owner's team builds out or renovates space and needs to see what could delay a handover.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the look-ahead lives in a superintendent's notebook and should live in a brief that anyone can read.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), which owns the plan for the next stretch of work and the meeting that keeps it honest.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), whose delivery dates decide whether a trade can start on the day planned.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), where the superintendent walks into each coordination meeting with several trades wanting the same space.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), where the firm coordinates a contractor's look-ahead on a project it designed.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), where the owner's team builds out or renovates space and needs to see what could delay a handover.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi), where the look-ahead lives in a superintendent's notebook and should live in a brief that anyone can read.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Map your scheduling product's export to the column headings once and keep the ma
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past look-aheads your superintendent remembers well, plus hard cases written in advance, each with its expected result: a predecessor past its finish, a closed day inside a delivery's lateness, two exclusive claims for one area, an update that is eight days old, an RFI needed after the activity starts. The superintendent checks every date and every count before anyone relies on the brief. [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/) is the next step when a committed date has already slipped, and [Project status report](https://fullypowered.ai/workflows/project-status-report/) carries the picture to the owner.
+Testing in your environment means running it on two or three past look-aheads your superintendent remembers well, plus hard cases written in advance, each with its expected result: a predecessor past its finish, a closed day inside a delivery's lateness, two exclusive claims for one area, an update that is eight days old, an RFI needed after the activity starts. The superintendent checks every date and every count before anyone relies on the brief. [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi) is the next step when a committed date has already slipped, and [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi) carries the picture to the owner.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on two or three past look-aheads yo
 
 ## Related workflow templates
 
-- [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/)
-- [Project status report](https://fullypowered.ai/workflows/project-status-report/)
-- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
+- [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi)
+- [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-three-week-look-ahead-constraint-review&from=gh-three-week-look-ahead-constraint-revi).

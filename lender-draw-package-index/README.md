@@ -1,10 +1,17 @@
 # Lender draw package index
 
-Before a monthly draw goes to the lender, the project finance lead has an index in the lender’s own order: every required document listed or missing, and every invoice set against the ledger. The lender decides funding; nothing is submitted.
+An index of the monthly draw in the lender's order, every document listed or missing and every invoice set against the ledger. The lender decides funding.
 
-*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lender-draw-package-index/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Lender draw package index on our website](https://fullypowered.ai/workflows/lender-draw-package-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lender-draw-package-index/?from=gh-lender-draw-package-index)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Construction · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lender-draw-package-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index)*
 
 ## The outcome
 
@@ -36,13 +43,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where the project finance lead owns the draw and its support.
-- [Construction](https://fullypowered.ai/industries/construction/), where a monthly draw follows the month’s invoices, the progress billing and the site reports.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), for owners and developers who draw on a construction loan and answer to the lender each month.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several projects draw in the same week.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of draws outgrows a careful hand check of each package.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), where the project finance lead owns the draw and its support.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), where a monthly draw follows the month’s invoices, the progress billing and the site reports.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), for owners and developers who draw on a construction loan and answer to the lender each month.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), where several projects draw in the same week.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), when the number of draws outgrows a careful hand check of each package.
 
-It stays apart from [pay application line check](https://fullypowered.ai/workflows/pay-application-line-check/), which compares a contractor’s billing with the schedule of values, the changes and the site evidence; here the pay application is only a document that is listed. It also stays apart from [thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/), which looks ahead at cash, while this index looks at one month’s package.
+It stays apart from [pay application line check](https://fullypowered.ai/workflows/pay-application-line-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), which compares a contractor’s billing with the schedule of values, the changes and the site evidence; here the pay application is only a document that is listed. It also stays apart from [thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index), which looks ahead at cash, while this index looks at one month’s package.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Put your lender’s checklist in the stated columns, in the lender’s order, an
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, then edited and run again on the same example by the editing session, and the record is published with it. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past draws the finance lead already knows, with cases written in advance: an invoice missing from the ledger, an amount that differs, a payee with no attachment listed, a ledger entry that is not posted. The finance lead checks every line against the lender’s checklist and the ledger before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on two or three past draws the finance lead already knows, with cases written in advance: an invoice missing from the ledger, an amount that differs, a payee with no attachment listed, a ledger entry that is not posted. The finance lead checks every line against the lender’s checklist and the ledger before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on two or three past draws the fina
 ## Related workflow templates
 
 - [Pay application line check](../pay-application-line-check/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-lender-draw-package-index&from=gh-lender-draw-package-index).
