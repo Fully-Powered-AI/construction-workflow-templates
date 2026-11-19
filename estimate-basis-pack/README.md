@@ -28,7 +28,7 @@ The estimator starts it when a drawing set or a scope revision needs pricing, an
 ## What they supply
 
 - **The drawing register:** each sheet, its current revision and its date.
-- **The takeoff export:** each line with its unit, quantity, where the quantity came from and the sheet and revision it was taken from.
+- **The takeoff export** from your estimating or takeoff tool: each line with its unit, quantity, where the quantity came from and the sheet and revision it was taken from.
 - **The rates:** a rate for each line, with its source, reference and date.
 - **The quotes list:** each supplier quote with its dates, the drawings it priced and what it includes and leaves out.
 - **Your settings and notes:** the pricing date, the bid due date, your standing exclusions, how old a price-book rate may be, and notes such as addenda.

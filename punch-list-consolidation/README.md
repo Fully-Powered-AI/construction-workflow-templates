@@ -25,7 +25,7 @@ The site manager, or the site coordinator working for them, runs it once the wal
 
 ## What they supply
 
-- The prior punch list: each item with its location, trade, description, status as recorded, due date and who verified any closure.
+- The prior punch list, exported from your construction project management system or the list you keep: each item with its location, trade, description, status as recorded, due date and who verified any closure.
 - The walk notes: one row for each observation, with location, trade, wording and a photograph file name where there is one.
 - The contractor updates received since the last walk, with any date a trade has promised and whether it says the work is done.
 - Typed settings: the project, today's date, the walk date and who decides. Optional: the days to allow before a check, the next walk date and the target closeout date.

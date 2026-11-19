@@ -26,7 +26,7 @@ The project engineer, or the project coordinator working for them, runs it when 
 ## What they supply
 
 - The required-submittals list taken from the specifications: number, section, description, trade and required documents.
-- The submittal log: each package received, its revision, documents, routing and recorded status.
+- The submittal log, exported from your construction project management system: each package received, its revision, documents, routing and recorded status.
 - Purchasing's dates: the date each order must be placed and its lead time in days.
 - Today's date, the review period your project allows, and the long-lead threshold you use.
 
