@@ -8,7 +8,7 @@ One closeout punch list grouped by location and trade, repeats merged, photograp
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-punch-list-consolidation&from=gh-construction-punch-list-consolidation)*
@@ -34,7 +34,7 @@ The site manager, or the site coordinator working for them, runs it once the wal
 
 A dated, consolidated list with a summary count, then separate lists of possible duplicates, items raised again, items a trade reports complete, overdue items and items with no photograph, and numbered questions for the site manager. Each question gives the facts first and recommends nothing. Where a section is empty it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -55,7 +55,7 @@ For related work, see [project handover readiness check](https://fullypowered.ai
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Small edits made to the template and the example after that run were not run again; the record lists them. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it. Small edits made to the template and the example after that run were not run again; the record lists them. It has not yet been tested in a client environment.
 
 Testing on your project means running it on a punch list your site manager already knows well, with cases written in advance: a repeated entry, an item raised again after it was closed, a trade that says it is finished. The site manager checks every merge, date and count against the source files before the list goes to anyone. The check for wording about danger matches only the words "unsafe", "hazard" and "danger", so a note such as a loose handrail is not flagged by it; add your own company's words to the check, and take anything about safety through the project's safety process.
 
@@ -63,13 +63,13 @@ Testing on your project means running it on a punch list your site manager alrea
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

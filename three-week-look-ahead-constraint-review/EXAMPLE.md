@@ -1,6 +1,6 @@
-# Three-week look-ahead constraint review: an invented example
+# Three-week look-ahead constraint review: an example
 
-*Illustrative example with invented data.* The project, the trades, the suppliers, the activity codes and every date below are invented. The project is an invented interior fit-out of a three-storey office building called Marlow Yard Block C. Trades and suppliers are named by letter (Electrical A, Supplier B). People are named by role. First come the inputs the project engineer supplied, in full, then the brief the workflow template returned.
+*Illustrative example with sample data.* The project, the trades, the suppliers, the activity codes and every date below are illustrative. The project is an illustrative interior fit-out of a three-storey office building called Marlow Yard Block C. Trades and suppliers are named by letter (Electrical A, Supplier B). People are named by role. First come the inputs the project engineer supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

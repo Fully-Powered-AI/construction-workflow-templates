@@ -135,7 +135,7 @@ An empty section prints its heading with "None." in place of entries (and a coun
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a set; the invented example exercises several of them.
+Proposed tests. None has been run as a set; the example exercises several of them.
 
 1. **Clean line.** A measured quantity on a current sheet with a valid quote. Expected: amount = quantity × rate; flags "none".
 2. **Superseded drawing.** A takeoff line on revision A where the register says B. Expected: "superseded drawing" flag and a scope question; amount still shown.
@@ -287,4 +287,4 @@ who does it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example on 10 November 2026; the record is in the trial, which also says what was changed after the independent review's minor points and how the example was run again. That run was made by the assistant that made the edits, not blind. The example did not exercise the rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops or missing files, and those have not been run. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example on 10 November 2026; the record is in the trial, which also says what was changed after the independent review's minor points and how the example was run again. That run was made by the assistant that made the edits, not blind. The example did not exercise the rules for unreadable values, unit mismatches, rates with no line, differing valid-to dates, a line covered twice, a quote not supplied, a drawing not in the register, the header and repeated-id stops or missing files, and those have not been run. Not yet tested in a client environment.

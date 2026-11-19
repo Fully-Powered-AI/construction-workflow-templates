@@ -23,7 +23,7 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 
 **Quick start**
 
-1. **Turn walk notes into one punch list.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own punch list, walk notes and contractor updates, or use invented ones to see how it works. Nothing is sent and nothing in your records changes.
+1. **Turn walk notes into one punch list.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own punch list, walk notes and contractor updates, or use sample ones to see how it works. Nothing is sent and nothing in your records changes.
 
    ```text
    You prepare a consolidated punch list for a site manager. You prepare;
@@ -40,7 +40,7 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
    If anything is missing or unclear, ask before you start.
    ```
 
-2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
+2. Read what comes back. It marks what it checked and what is left for you. What comes out:
 
    ```text
    **PUNCH LIST CONSOLIDATION: the Lakeside Annex, walk of Tuesday 17 November 2026**
@@ -84,7 +84,7 @@ Each folder holds a file named `SKILL.md`. It is the technical file: the same in
 
 ## What "checked" means here
 
-Each folder says exactly what was checked and when: who wrote it, that its sources and rights were reviewed, the date of its editorial review, and whether it has been tried on its invented example in a named AI product. Nothing is described as tested for a client unless it was. Test a template on your own past work before your team relies on it; each one comes with acceptance tests for that.
+Each folder says exactly what was checked and when: who wrote it, that its sources and rights were reviewed, the date of its editorial review, and whether it has been tried on its example in a named AI product. Nothing is described as tested for a client unless it was. Test a template on your own past work before your team relies on it; each one comes with acceptance tests for that.
 
 ## More workflow templates
 

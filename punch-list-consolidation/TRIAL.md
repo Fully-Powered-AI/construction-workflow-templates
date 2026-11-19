@@ -1,4 +1,4 @@
-# Trial: Punch list consolidation, run on its invented example
+# Trial: Punch list consolidation, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,11 +6,11 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the Lakeside Annex, a made-up two-storey building, with trades named Trade A to Trade F). No client data was used.
+The inputs are the example in `public/example.md` (the Lakeside Annex, a made-up two-storey building, with trades named Trade A to Trade F). No client data was used.
 
 ## Inputs used
 
-The four invented inputs from `public/example.md`: the settings, the prior punch list (6 rows), the walk notes (8 rows) and the contractor updates (4 rows). Nothing else was supplied, so the default of 7 follow-up days applied and no next walk date was given. The example's own output was not read until after the output below was produced.
+The four sample inputs from `public/example.md`: the settings, the prior punch list (6 rows), the walk notes (8 rows) and the contractor updates (4 rows). Nothing else was supplied, so the default of 7 follow-up days applied and no next walk date was given. The example's own output was not read until after the output below was produced.
 
 ## What came out
 

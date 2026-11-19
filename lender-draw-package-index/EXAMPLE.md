@@ -1,6 +1,6 @@
-# Lender draw package index: an invented example
+# Lender draw package index: an example
 
-*Illustrative example with invented data.* An invented apartment project, "Project Delta", with an invented lender, contractor and suppliers. Every figure below is made up for this page, and no real company, person or project is meant. The project accountant supplies five documents and a few settings, and receives one page.
+*Illustrative example with sample data.* An illustrative apartment project, "Project Delta", with an illustrative lender, contractor and suppliers. Every figure below is made up for this page, and no real company, person or project is meant. The project accountant supplies five documents and a few settings, and receives one page.
 
 ## What the project accountant supplies
 

@@ -1,10 +1,10 @@
-# Three-week look-ahead constraint review: one trial on the invented example
+# Three-week look-ahead constraint review: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example published beside this record (`example.md`, section "The inputs": settings, schedule extract, trade updates, deliveries, RFI log, approvals and submittals log, access claims). No client data was used. The model that ran this trial did not write the template. It read the template and the example's inputs first, followed the instruction block and the output format, produced the brief, and only then read the example's published output to compare.
+The inputs are the example published beside this record (`example.md`, section "The inputs": settings, schedule extract, trade updates, deliveries, RFI log, approvals and submittals log, access claims). No client data was used. The model that ran this trial did not write the template. It read the template and the example's inputs first, followed the instruction block and the output format, produced the brief, and only then read the example's published output to compare.
 
 This is one run by one model on one example. It shows what happened this once. It is not a test in a client environment.
 

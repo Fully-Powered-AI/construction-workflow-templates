@@ -1,10 +1,10 @@
-# Estimate basis pack: one run on its invented example
+# Estimate basis pack: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the drawing register, takeoff export, rates, quotes list, and settings and notes). No client data was used. This is the second run. The first, on the first version of the instructions, found the shortcomings listed at the end; the instructions, output format and example were revised after an independent review, and this run followed the revised instruction block, including the output format it now carries, as written.
+The inputs are the example in `public/example.md` (the drawing register, takeoff export, rates, quotes list, and settings and notes). No client data was used. This is the second run. The first, on the first version of the instructions, found the shortcomings listed at the end; the instructions, output format and example were revised after an independent review, and this run followed the revised instruction block, including the output format it now carries, as written.
 
 One limit on this record: the run was made by the assistant that revised the template, with the example's inputs and its output both on screen. It was worked from the inputs and the instruction block, with every sum and date checked by calculation, but it was not a blind run.
 

@@ -1,6 +1,6 @@
-# Submittal register review: an invented example
+# Submittal register review: an example
 
-*Illustrative example with invented data.* The project, the trades, the submittals, the dates and every figure below are invented, and the trades are named Trade A to Trade H. The project is a small two-storey annex, called the Annex here. The project engineer runs the review on Monday 16 November 2026. People are referred to by role.
+*Illustrative example with sample data.* The project, the trades, the submittals, the dates and every figure below are illustrative, and the trades are named Trade A to Trade H. The project is a small two-storey annex, called the Annex here. The project engineer runs the review on Monday 16 November 2026. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The register follows.
 

@@ -1,6 +1,6 @@
-# Estimate basis pack: an invented example
+# Estimate basis pack: an example
 
-*Illustrative example with invented data.* The company, the people, the suppliers, the drawings, the quantities and every price below are invented. The company is an invented general contractor pricing the fit-out of one small tenant unit. The estimator prepares the price and the bid lead decides the figure to submit; people are named by role only. On Tuesday 10 November 2026 the estimator supplied the five inputs below, in full, and got back the pack that follows.
+*Illustrative example with sample data.* The company, the people, the suppliers, the drawings, the quantities and every price below are illustrative. The company is an illustrative general contractor pricing the fit-out of one small tenant unit. The estimator prepares the price and the bid lead decides the figure to submit; people are named by role only. On Tuesday 10 November 2026 the estimator supplied the five inputs below, in full, and got back the pack that follows.
 
 ## The inputs
 

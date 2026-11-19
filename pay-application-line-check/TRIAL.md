@@ -1,10 +1,10 @@
-# Pay application line check: trial on the invented example
+# Pay application line check: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) ("Project Alpha", application 4). No client data was used. The run followed the fenced instruction block and the output format in the member template. The assistant that ran it had not written the template and read the example's inputs before its output.
+The inputs are the example in [example.md](example.md) ("Project Alpha", application 4). No client data was used. The run followed the fenced instruction block and the output format in the member template. The assistant that ran it had not written the template and read the example's inputs before its output.
 
 ## Inputs used
 
@@ -72,7 +72,7 @@ The project accountant verifies each figure against the documents. The authorize
   - Evidence on line 04 can be measured against the 46,000 shown or the 45,000 the parts give. The template says to check the total as shown, so 46,000 was used for the claim.
   - Whether the claim should use the scheduled value as billed (162,000, 89,000) or the schedule of values plus approved changes. The template says to use scheduled value; this run used the application's.
 - **Template text outside the instructions.** The acceptance tests are marked "proposed, none has been run". This trial ran only the example, not those tests.
-- **Limits.** One run, one invented example, one product. It shows the instructions can be followed to a page that agrees with the example. It says nothing about messy real exports, other products or other projects.
+- **Limits.** One run, one example, one product. It shows the instructions can be followed to a page that agrees with the example. It says nothing about messy real exports, other products or other projects.
 
 ## Changed after the run
 

@@ -1,4 +1,4 @@
-# Trial: Submittal register review, run on its invented example
+# Trial: Submittal register review, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (a made-up two-storey annex, trades named Trade A to Trade H). No client data was used.
+The inputs are the example in `public/example.md` (a made-up two-storey annex, trades named Trade A to Trade H). No client data was used.
 
 ## Inputs used
 
@@ -94,7 +94,7 @@ Draft for the project engineer's decisions. No trade, reviewer or supplier has b
   - A missing item on a RETURNED package (S-08) is counted under "Submittals with missing documents" and "Missing documents", although what is missing is a document the return asked for. That follows step 5 literally.
   - The template body says "Every thing the instructions require" (two words) in the output-format note.
 - **Told to stop for anything?** No.
-- **What this does not show.** This is one run, by one assistant, on invented data, with the example's output visible. It shows the instructions can be followed to the intended shape and figures. It does not test the template in a client environment, in another product, or against messy real exports.
+- **What this does not show.** This is one run, by one assistant, on sample data, with the example's output visible. It shows the instructions can be followed to the intended shape and figures. It does not test the template in a client environment, in another product, or against messy real exports.
 
 ## Edits made after this run, not run again
 

@@ -1,6 +1,6 @@
-# Pay application line check: an invented example
+# Pay application line check: an example
 
-*Illustrative example with invented data.* An invented tenant fit-out, "Project Alpha", with an invented contractor and owner. Every figure below is made up for this page, and no real company, person or project is meant. The project accountant supplies five documents and three settings, and receives one page.
+*Illustrative example with sample data.* An illustrative tenant fit-out, "Project Alpha", with an illustrative contractor and owner. Every figure below is made up for this page, and no real company, person or project is meant. The project accountant supplies five documents and three settings, and receives one page.
 
 ## What the project accountant supplies
 

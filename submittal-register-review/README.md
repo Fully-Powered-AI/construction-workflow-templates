@@ -8,7 +8,7 @@ Turn the required-submittals list, the log and purchasing's dates into one regis
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Construction · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/submittal-register-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=construction-submittal-register-review&from=gh-submittal-register-review)*
@@ -34,7 +34,7 @@ The project engineer, or the project coordinator working for them, runs it when 
 
 A dated register with a summary count, then the missing-documents, routing, long-lead and at-risk lists, and a numbered set of questions for the project engineer. Each question gives the facts first and recommends nothing. Where a section is empty it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -53,7 +53,7 @@ Use your own status words and decide which of them count as accepted. Set the re
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The example's own output was visible during that run, so it was not a blind run. Small edits made afterward to the example, the question wording and the instructions, including clauses on a reviewer comment that disagrees with the status, a package logged with no documents and an unreadable date, have not been run again; the template's version notes list them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it. The example's own output was visible during that run, so it was not a blind run. Small edits made afterward to the example, the question wording and the instructions, including clauses on a reviewer comment that disagrees with the status, a package logged with no documents and an unreadable date, have not been run again; the template's version notes list them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing on your project means running it on a log your project engineer already knows well, with cases written in advance: a package with a missing document, one that was never routed, a long-lead item with no time left. The project engineer checks every date and count against the log before anyone relies on the register.
 
@@ -61,13 +61,13 @@ Testing on your project means running it on a log your project engineer already 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

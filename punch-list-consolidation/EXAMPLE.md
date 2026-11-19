@@ -1,6 +1,6 @@
-# Punch list consolidation: an invented example
+# Punch list consolidation: an example
 
-*Illustrative example with invented data.* The project, the trades, the items, the dates and every figure below are invented, and the trades are named Trade A to Trade F. The project is a small two-storey building called the Lakeside Annex here. The site manager runs the consolidation on Tuesday 17 November 2026, after that day's closeout walk. People are referred to by role.
+*Illustrative example with sample data.* The project, the trades, the items, the dates and every figure below are illustrative, and the trades are named Trade A to Trade F. The project is a small two-storey building called the Lakeside Annex here. The site manager runs the consolidation on Tuesday 17 November 2026, after that day's closeout walk. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The consolidated list follows.
 
